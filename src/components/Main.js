@@ -1,6 +1,6 @@
 const Main = () => {
     return (
-        <main>esta pc es malarda</main>
+        <main>Alta tienda pa</main>
     )
 }
 

@@ -1,8 +1,8 @@
 const Footer = () => {
     return (
         <footer>
-            <p>Mi proxima entrega</p>
-            <p>Va a estar gooood</p>
+            <p>@alejoyrusta</p>
+            <p>aguante el league of legends</p>
         </footer>
     )
 }
