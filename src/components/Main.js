@@ -1,6 +1,10 @@
+import Contador from "./ItemListContainer"
 const Main = () => {
     return (
-        <main>Alta tienda pa</main>
+        <main>
+            <p>Alta tienda pa</p>
+            <Contador/>
+        </main>
     )
 }
 
